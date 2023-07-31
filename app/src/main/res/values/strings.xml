@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Story Time</string>
+    <string name="signup">Daftar</string>
+    <string name="description">Deskripsi</string>
+    <string name="message_welcome_page">Semua bisa diceritakan hanya ada di story time, ayuk share cerita kamu di Story Time!</string>
+    <string name="title_welcome_page">Selamat datang di Story Time!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk berbagi cerita?</string>
+    <string name="name">Nama</string>
+    <string name="copyright">© 2023 Story Time</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="login">Login</string>
+    <string name="addPost">Tambah Post</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="password_min">Password must be at least 8 characters</string>
+    <string name="email_valid">Enter a valid email</string>
+    <string name="email_cannot_empty">Email must be filled</string>
+    <string name="retry">Retry</string>
+    <string name="Timeout">TimeOut</string>
+    <string name="map">Maps</string>
+
+</resources>
